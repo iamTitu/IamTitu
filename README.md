@@ -1,80 +1,53 @@
-# Hi, I’m Sarvesh Asatkar 👋
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Developer;I+build+scalable+systems;Always+learning+new+tech" alt="Typing SVG" />
+</div>
 
-Welcome to my GitHub — I build delightful developer experiences and production-ready software.  
-This profile is designed with a “Perfect Developer” UI in mind: clear, modern, and focused on what matters.
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast</h3>
 
----
-
-## 🚀 About Me
-
-- Name: Sarvesh Asatkar  
-- Title: Full-Stack Software Engineer (customize as needed)  
-- Location: (Add your location) · Pronouns: (Add pronouns)
-
-I build scalable web apps and developer-first tools. I enjoy turning complex problems into reliable, maintainable systems and great user experiences.
-
----
-
-## 🛠️ Core Technologies
-
-- Languages: JavaScript · TypeScript · Python  
-- Frontend: React · Next.js · Tailwind CSS  
-- Backend: Node.js · Express · PostgreSQL  
-- DevOps: Docker · Kubernetes · GitHub Actions  
-- Testing & Quality: Jest · Cypress · ESLint
-
-(Replace or reorder these to match your top skills.)
+<div align="center">
+  <!-- Social Badges -->
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🌟 Featured Projects
+### 🛠️ Tech Stack
 
-- Awesome Project One — Short description of the problem it solves. Tech: Next.js, Node.js. [Repo](https://github.com/iamTitu/awesome-project-one)  
-- Open Source Tool — Brief highlight or achievement. Tech: TypeScript, Docker. [Repo](https://github.com/iamTitu/open-source-tool)  
-- Side Project — One-line description and demo link if available. [Repo](https://github.com/iamTitu/side-project)
-
-(Provide real project names/links and I’ll craft polished blurbs and add badges.)
-
----
-
-## 📈 GitHub Stats
-
-[![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamTitu&show_icons=true&theme=radical)](https://github.com/iamTitu)
-
-If you prefer a different theme (dark/light/blue/minimal), tell me and I’ll swap the card and colors.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🤝 Get in Touch
+### 📊 GitHub Analytics
 
-- Website: https://yourwebsite.com  
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Twitter: https://twitter.com/yourhandle
+<div align="center">
+  <!-- Stats Card (Dark Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+  
+  <br/>
+  
+  <!-- Top Languages (Compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+</div>
 
-(Replace placeholders. If you prefer privacy, remove email or use a contact form link.)
+### 🔥 Streak
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</div>
 
-## 🎯 What I’m looking for
-
-- Open to collaboration on developer tooling, scalable backend systems, and UX-focused web apps.  
-- Happy to mentor, review PRs, and help shape architecture decisions.
-
----
-
-## ⚙️ How to use
-
-1. Place this content into `README.md` at the root of the `iamTitu/IamTitu` repository.  
-2. Replace placeholders (projects, links, location, pronouns).  
-3. Optionally add image assets or a small GitHub Pages site for extra UI polish.
-
----
-
-## Next steps
-
-Tell me the exact details you want personalized (title, top skills, project links, social links, preferred theme, tone) and I’ll update the README with final copy, badges, and any small assets you want included.
-
----
-
-*Generated for: Sarvesh Asatkar — “Perfect Developer” UI*
+<!-- Dynamic Section for Auto-Fetch -->
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
