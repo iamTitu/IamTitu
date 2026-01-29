@@ -1,92 +1,25 @@
-<!-- 1. FAKE NAVBAR (Website Header) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=YOUR_NAME&fontSize=70&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Enthusiast&descAlignY=65&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
+# 💫 About Me:
+My name is Sarvesh<br> live in Maharashtra → Buldhana → Malkapur<br>passion is to build websites, APIs, and apps using AI
 
-<div align="center">
-  <!-- Navigation Links (Fake Buttons) -->
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/🏠_Home-000?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="#-tech-stack">
-    <img src="https://img.shields.io/badge/🛠_Projects-000?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/🐦_Contact-000?style=for-the-badge&logoColor=white" />
-  </a>
-   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/💼_Hire_Me-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-</div>
 
-<br />
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarvya.asatkar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarvesh_asatkar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamtitu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Iamtitu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sarveshh.asatkarr@gmail.com) 
 
-<!-- 2. MAIN WEBSITE LAYOUT (Grid System using Tables) -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <!-- LEFT SIDEBAR (Profile Info) -->
-    <td width="30%" valign="top">
-      <div align="center">
-        <img src="https://github.com/YOUR_USERNAME.png" width="150px" style="border-radius: 50%" />
-        <br />
-        <h3>👨‍💻 Dev Profile</h3>
-      </div>
-      
-      <!-- Bio / Typing Text -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=16&duration=3000&pause=1000&color=20C20E&width=250&lines=Coding+since+2018;Loves+React+%26+Node;Building+the+Future..." />
-      
-      <br /><br />
-      
-      <!-- Connect Section -->
-      <strong>Connect with me:</strong><br />
-      <a href="mailto:your@email.com">📧 Email Me</a><br />
-      <a href="https://yourwebsite.com">🌐 Portfolio</a><br />
-      
-      <br />
-      
-      <!-- Stack (Vertical List) -->
-      <strong>Core Skills:</strong><br />
-      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br />
-      <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Iamtitu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Iamtitu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamtitu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-    <!-- RIGHT CONTENT (Dashboard Area) -->
-    <td width="70%" valign="top">
-      
-      <!-- Hero Banner inside Content -->
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-      
-      <h2 id="-tech-stack">📊 Live Dashboard</h2>
-      
-      <!-- Github Stats (Full Width) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" width="100%" />
-      
-      <br /><br />
-      
-      <!-- Activity Graph & Languages Side by Side -->
-      <table border="0" width="100%">
-        <tr>
-          <td width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" width="100%" />
-          </td>
-          <td width="50%">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=00000000" width="100%" />
-          </td>
-        </tr>
-      </table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-      <h3>🚧 Latest Commits</h3>
-      <!-- Dynamic Activity Feed -->
-      <!-- Setup 'readme-scribe' or similar action to fill this -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" width="100%" />
-      
-    </td>
-  </tr>
-</table>
+---
+[![](https://visitcount.itsvg.in/api?id=Iamtitu&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- 3. FOOTER (Website Footer) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%" />
-</div>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iamtitu) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
